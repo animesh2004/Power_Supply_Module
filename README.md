@@ -59,16 +59,6 @@ A compact dual-output linear voltage regulator module built using **LM7805** and
 
 ---
 
-## 🖼️ Preview
-
-### 📷 3D Render
-![3D View](Images/3d_render.png)
-
-### 📐 PCB Layout
-![Top View](Images/pcb_layout.png)
-
----
-
 ## 📤 Gerber Export
 
 Gerbers are available in `Gerbers/`. You can upload them directly to JLCPCB, PCBWay, or OSH Park.
